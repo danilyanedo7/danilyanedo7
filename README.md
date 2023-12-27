@@ -43,5 +43,7 @@ Find me in here:
 
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=danilyanedo7&count_private=true&title_color=264653&icon_color=264653&text_color=264653&custom_title=Edo'+GitHub+Stats&theme=transparent&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=danilyanedo7&count_private=true&title_color=264653&icon_color=264653&text_color=264653&custom_title=Edo's+GitHub+Stats&theme=transparent&show_icons=true"
 />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilyanedo7&hide_progress=false)
