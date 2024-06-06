@@ -1,8 +1,6 @@
-### Hi, I'm Edo, welcome to my GitHub page!
+### Hi, I'm Edo! Welcome to my GitHub page.
 
-I am a biology graduate from Institut Teknologi Sepuluh Nopember in Indonesia.<br/>
-I use R to make a story from data. <br/> 
-I’m interested in data science and applied bioinformatics R Language.
+I graduated with a degree in Biology from Institut Teknologi Sepuluh Nopember in Indonesia. I specialize in using R to transform data into compelling stories. My interests lie in data science and applied bioinformatics, particularly with the R programming language.
 
 ### What do I use in my work?
 <p>
