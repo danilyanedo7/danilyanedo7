@@ -1,6 +1,8 @@
 ### Hi, I'm Edo! Welcome to my GitHub page.
 
-I graduated with a degree in Biology from Institut Teknologi Sepuluh Nopember in Indonesia. I specialize in using R to transform data into compelling stories. My interests lie in data science and applied bioinformatics, particularly with the R programming language.
+R, python, javascript, shiny, dplyr, purrr, ditto, ggplot, d3, canvas, spark, flask, pyspark, sparklyR, lodash, lazy, bootstrap, jupyter, git, flask, numpy, pandas, apollo, scikit, pgm, bayes, h2o.ai, artemis, tensorflow, keras, zeus, hades, hadoop, scala, athena, unity, prometheus, gc, c#/c++, neo4j, hadoop.
+
+I typically ask recruiters to point out which of these are Greek gods, but if you noticed Pokemon then maybe we can get along well.
 
 ### What do I use in my work?
 <p>
